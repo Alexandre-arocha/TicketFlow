@@ -1,0 +1,66 @@
+{
+  "tickets": [
+    {
+      "id": "84F5D57C",
+      "titulo": "Erro",
+      "descricao": "Erro",
+      "prioridade": "BAIXA",
+      "status": "aberto",
+      "criado_em": "2025-12-24T18:03:50.065420",
+      "atualizado_em": "2025-12-24T18:04:30.226408",
+      "criado_por": "Alexandre",
+      "atribuido_a": "Erro",
+      "categoria": "Erro",
+      "historico": [
+        {
+          "data": "2025-12-24T18:03:50.065443",
+          "usuario": "Alexandre",
+          "campo": "status",
+          "valor_anterior": null,
+          "valor_novo": "aberto",
+          "descricao": "Ticket criado com título: Erro"
+        },
+        {
+          "data": "2025-12-24T18:04:03.266600",
+          "usuario": "Alexandre",
+          "campo": "comentario",
+          "valor_anterior": null,
+          "valor_novo": "e2ca0d29",
+          "descricao": "Comentário adicionado por Alexandre"
+        },
+        {
+          "data": "2025-12-24T18:04:22.316409",
+          "usuario": "Alexandre",
+          "campo": "prioridade",
+          "valor_anterior": "MEDIA",
+          "valor_novo": "BAIXA",
+          "descricao": "Prioridade alterada de MEDIA para BAIXA"
+        },
+        {
+          "data": "2025-12-24T18:04:30.226411",
+          "usuario": "Alexandre",
+          "campo": "comentario",
+          "valor_anterior": null,
+          "valor_novo": "cd0ccbdf",
+          "descricao": "Comentário adicionado por Alexandre"
+        }
+      ],
+      "comentarios": [
+        {
+          "id": "e2ca0d29",
+          "data": "2025-12-24T18:04:03.266595",
+          "usuario": "Alexandre",
+          "conteudo": "Teste",
+          "atualizado_em": null
+        },
+        {
+          "id": "cd0ccbdf",
+          "data": "2025-12-24T18:04:30.226404",
+          "usuario": "Alexandre",
+          "conteudo": "sa",
+          "atualizado_em": null
+        }
+      ]
+    }
+  ]
+}
